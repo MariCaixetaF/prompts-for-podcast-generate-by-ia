@@ -19,9 +19,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 Prompt para criação do roteiro:
 Você é um roteirista de podcast, e vamos criar um podcast de esportes, focado no clube atlético mineiro, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast sobre a história do clube, e que tenha algum trocadilho futebolístico no nome. O podcast vai falar sobre o nascimento do clube atlético mineiro e seus principais craques. 
